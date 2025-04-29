@@ -8,6 +8,10 @@
 - 💡 Me interesa colaborar en proyectos relacionados con aprendizaje automático, automatización y desarrollo de apps.
 - 📫 Puedes contactarme aquí en GitHub o a través de [LinkedIn](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274/).
 
+### 🧑‍💻 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&langs_count=10)
+
 ### 📊 Mis estadísticas
 
 [![DarksAces GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark)](https://github.com/DarksAces)
@@ -16,25 +20,11 @@
 
 ![Contribuciones](https://ghchart.rshah.org/DarksAces)
 
-**Detalles de contribuciones:**
-- **216** Total Contributions (Oct 24, 2023 - Present)
-- **1** Current Streak (Apr 29)
-- **5** Longest Streak (Mar 23, 2024 - Mar 27, 2024)
+
 
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Logros:**
-- **Repositorios**: High Repo Creator (24pt)
-- **Commits**: Middle Committer (77pt)
-- **Followers**: Many Friends (15pt)
-- **Pull Requests**: Middle Puller (12pt)
-- **Issues**: First Issue (8pt)
-- **Experience**: Newbie (5pt)
-- **Stars**: Unknown (0pt)
-- **Reviews**: Unknown (0pt)
 
-### 🧑‍💻 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&langs_count=10)
