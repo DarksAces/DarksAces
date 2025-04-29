@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Me llamo **Daniel** y soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la tecnología y, en especial, el mundo de la inteligencia artificial 🤖.
 
-- 🎓 Actualmente estudio DAM y planeo continuar con un máster relacionado con IA.
+- � Actualmente estudio DAM y planeo continuar con un máster relacionado con IA.
 - 🌱 Aprendiendo sobre desarrollo de software, bases de datos y fundamentos de inteligencia artificial.
 - 🚀 Mi objetivo es combinar programación con IA para crear soluciones innovadoras.
 - 💡 Me interesa colaborar en proyectos relacionados con aprendizaje automático, automatización y desarrollo de apps.
@@ -11,6 +11,29 @@
 ### 📊 Mis estadísticas
 
 [![DarksAces GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark)](https://github.com/DarksAces)
+
+### � Mis contribuciones
+
+![Contribuciones](https://ghchart.rshah.org/DarksAces)
+
+**Detalles de contribuciones:**
+- **216** Total Contributions (Oct 24, 2023 - Present)
+- **1** Current Streak (Apr 29)
+- **5** Longest Streak (Mar 23, 2024 - Mar 27, 2024)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+**Logros:**
+- **Repositorios**: High Repo Creator (24pt)
+- **Commits**: Middle Committer (77pt)
+- **Followers**: Many Friends (15pt)
+- **Pull Requests**: Middle Puller (12pt)
+- **Issues**: First Issue (8pt)
+- **Experience**: Newbie (5pt)
+- **Stars**: Unknown (0pt)
+- **Reviews**: Unknown (0pt)
 
 ### 🧑‍💻 Lenguajes más usados
 
