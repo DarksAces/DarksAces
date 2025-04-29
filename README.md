@@ -11,3 +11,7 @@
 ### 📊 Mis estadísticas
 
 [![DarksAces GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark)](https://github.com/DarksAces)
+
+### 🧑‍💻 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact)
