@@ -9,11 +9,6 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 - Bases de datos: MySQL, PL/SQL
 - Herramientas: NetBeans, Visual Studio, Visual Studio Code, IntelliJ IDEA
 
-## 🚀 Proyectos destacados
-
-- **[Gestión de Biblioteca en Java](https://github.com/DarksAces/gestion-biblioteca)**: Proyecto de gestión de biblioteca utilizando Java, donde se implementa un sistema para gestionar libros, usuarios y préstamos.
-- **[Aplicación de Gestión de Inventario](https://github.com/DarksAces/gestion-inventario)**: Aplicación para la gestión de inventarios, controlando productos, cantidades y movimientos, desarrollado en Java.
-
 ## 📢 Contacto
 
 - 📧 danielgarciabrun@gmail.com
@@ -32,4 +27,4 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 
 ### 🏆 Estadísticas de GitHub
 ![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)
