@@ -52,21 +52,21 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
-        <br>VS
+      <td align="center" width="96" style="background-color:#2d2d2d;">
+        <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="48" height="48"/>
+        <br><span style="color:white">VS</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
-        <br>VS Code
+      <td align="center" width="96" style="background-color:#2d2d2d;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48"/>
+        <br><span style="color:white">VS Code</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
-        <br>IntelliJ
+      <td align="center" width="96" style="background-color:#2d2d2d;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="48" height="48"/>
+        <br><span style="color:white">IntelliJ</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" width="48" height="48"/>
-        <br>NetBeans
+      <td align="center" width="96" style="background-color:#2d2d2d;">
+        <img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="48" height="48"/>
+        <br><span style="color:white">NetBeans</span>
       </td>
     </tr>
   </table>
