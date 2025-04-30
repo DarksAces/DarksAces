@@ -88,3 +88,12 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 ### 🏆 Estadísticas de GitHub
 ![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)
+
+---
+
+# 📊 Mis estadísticas
+### 📈 Visitas a mi perfil
+![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
+### 🏆 Estadísticas de GitHub
+![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)
