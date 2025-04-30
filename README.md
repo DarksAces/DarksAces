@@ -65,7 +65,7 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
         <br><span style="color:white">IntelliJ</span>
       </td>
       <td align="center" width="96" style="background-color:#2d2d2d;">
-        <img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="48" height="48"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="48" height="48"/>
         <br><span style="color:white">NetBeans</span>
       </td>
     </tr>
@@ -87,4 +87,4 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 ![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
 ### 🏆 Estadísticas de GitHub
 ![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)****
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)
