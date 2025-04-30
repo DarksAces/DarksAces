@@ -4,43 +4,32 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 
 ## 💻 Tecnologías y herramientas
 
-- Lenguajes: Java, JavaScript, Python, SQL
-- Frameworks: Spring Boot, Node.js, React (en aprendizaje)
-- Bases de datos: MySQL, SQLite
-- Herramientas: Git, GitHub, VS Code, IntelliJ IDEA
+- Lenguajes: Java, JavaScript, Python, C++
+- Frameworks: Spring Boot
+- Bases de datos: MySQL, PL/SQL
+- Herramientas: NetBeans, Visual Studio, Visual Studio Code, IntelliJ IDEA
 
 ## 🚀 Proyectos destacados
 
-- **[PokeAPI Web App](https://github.com/DarksAces/PokeAPI-WebApp)**: Buscador y explorador de Pokémon con evoluciones, hábitats y objetos usando la PokéAPI.
-- **[PL/SQL Procedures Practice](https://github.com/DarksAces/PLSQL-Procedures)**: Conjunto de funciones y procedimientos PL/SQL para manejo de bases de datos.
-
-## 📚 Actualmente aprendiendo
-
-- Inteligencia artificial (Machine Learning básico con Python)
-- Desarrollo de aplicaciones web con React
-- Buenas prácticas de arquitectura de software
-
-## 🤝 Buscando colaborar en...
-
-- Proyectos relacionados con IA, automatización o aplicaciones prácticas con APIs
-- Open Source para mejorar habilidades y aportar a la comunidad
-
-## 📢 Estadísticas de GitHub
-
-![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
-![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight)
+- **[Gestión de Biblioteca en Java](https://github.com/DarksAces/gestion-biblioteca)**: Proyecto de gestión de biblioteca utilizando Java, donde se implementa un sistema para gestionar libros, usuarios y préstamos.
+- **[Aplicación de Gestión de Inventario](https://github.com/DarksAces/gestion-inventario)**: Aplicación para la gestión de inventarios, controlando productos, cantidades y movimientos, desarrollado en Java.
 
 ## 📢 Contacto
 
 - 📧 danielgarciabrun@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/darksaces)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274)
 
 ---
 
 ⭐ No dudes en explorar mis repositorios y seguirme si te interesan mis proyectos. ¡Gracias por visitar mi perfil!
 
+---
 
+# 📊 Mis estadísticas
 
-![Snake animation](https://github.com/DarksAces/DarksAces/blob/output/github-contribution-grid-snake.svg)
+### 📈 Visitas a mi perfil
+![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
 
+### 🏆 Estadísticas de GitHub
+![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight)
