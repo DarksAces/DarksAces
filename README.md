@@ -1,30 +1,46 @@
-### ✨ Sobre mí
+# 👋 ¡Hola! Soy Daniel
 
-¡Hola! 👋 Me llamo **Daniel** y soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la tecnología y, en especial, el mundo de la inteligencia artificial 🤖.
+Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con pasión por la inteligencia artificial y el desarrollo de software. Me gusta crear soluciones innovadoras combinando programación con IA y automatización.
 
--  ✨ Actualmente estudio DAM y planeo continuar con un máster relacionado con IA.
-- 🌱 Aprendiendo sobre desarrollo de software, bases de datos y fundamentos de inteligencia artificial.
-- 🚀 Mi objetivo es combinar programación con IA para crear soluciones innovadoras.
-- 💡 Me interesa colaborar en proyectos relacionados con aprendizaje automático, automatización y desarrollo de apps.
-- 📫 Puedes contactarme aquí en GitHub o a través de [LinkedIn](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274/).
+## 💻 Tecnologías y herramientas
 
-### 🧑‍💻 Lenguajes más usados
+- Lenguajes: Java, JavaScript, Python, SQL
+- Frameworks: Spring Boot, Node.js, React (en aprendizaje)
+- Bases de datos: MySQL, SQLite
+- Herramientas: Git, GitHub, VS Code, IntelliJ IDEA
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&langs_count=10)
+## 🚀 Proyectos destacados
 
-### 📊 Mis estadísticas
+- **[PokeAPI Web App](https://github.com/DarksAces/PokeAPI-WebApp)**: Buscador y explorador de Pokémon con evoluciones, hábitats y objetos usando la PokéAPI.
+- **[PL/SQL Procedures Practice](https://github.com/DarksAces/PLSQL-Procedures)**: Conjunto de funciones y procedimientos PL/SQL para manejo de bases de datos.
 
-[![DarksAces GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark)](https://github.com/DarksAces)
+## 📚 Actualmente aprendiendo
 
-### ✨ Mis contribuciones
+- Inteligencia artificial (Machine Learning básico con Python)
+- Desarrollo de aplicaciones web con React
+- Buenas prácticas de arquitectura de software
 
-![Contribuciones](https://ghchart.rshah.org/DarksAces)
+## 🤝 Buscando colaborar en...
+
+- Proyectos relacionados con IA, automatización o aplicaciones prácticas con APIs
+- Open Source para mejorar habilidades y aportar a la comunidad
+
+## 📢 Estadísticas de GitHub
+
+![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
+![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight)
+
+## 📢 Contacto
+
+- 📧 danielgarciabrun@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/darksaces)
+
+---
+
+⭐ No dudes en explorar mis repositorios y seguirme si te interesan mis proyectos. ¡Gracias por visitar mi perfil!
 
 
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![Snake animation](https://github.com/DarksAces/DarksAces/blob/output/github-contribution-grid-snake.svg)
 
