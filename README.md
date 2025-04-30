@@ -4,6 +4,7 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 
 ## 💻 Tecnologías y herramientas 🖱️
 
+### Lenguajes y Frameworks
 <div align="center">
   <table>
     <tr>
@@ -25,9 +26,15 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
-        <br>Spring
+        <br>Spring Boot
       </td>
     </tr>
+  </table>
+</div>
+
+### Bases de datos
+<div align="center">
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/>
@@ -37,6 +44,14 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
         <br>PL/SQL
       </td>
+    </tr>
+  </table>
+</div>
+
+### Entornos de desarrollo
+<div align="center">
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
         <br>VS
@@ -49,10 +64,8 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
         <br>IntelliJ
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48"/>
+        <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" width="48" height="48"/>
         <br>NetBeans
       </td>
     </tr>
@@ -74,4 +87,4 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 ![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
 ### 🏆 Estadísticas de GitHub
 ![DarksAces's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=tokyonight&langs_count=10)****
