@@ -25,7 +25,7 @@ Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataform
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DarksAces&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=normal)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=radical&no-frame=false&no-bg=false&margin-w=4)
