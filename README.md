@@ -23,6 +23,9 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net) 
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)](https://www.lua.org) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![SQL](https://img.shields.io/badge/SQL-%23007396.svg?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
+[![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)  
 
 ### ⚙️ Frameworks y Herramientas:
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com) 
@@ -32,6 +35,7 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) 
 [![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org) 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![SQL Developer](https://img.shields.io/badge/SQL_Developer-%23F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)  
 
 ### 🗃️ Bases de Datos y Otros:
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com) 
