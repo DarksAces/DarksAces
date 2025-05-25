@@ -1,7 +1,19 @@
+
+
+
 # 💫 About Me:
 🎓 Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con pasión por la inteligencia artificial y el desarrollo de software.  
 🚀 Me motiva crear soluciones innovadoras combinando programación con IA y automatización, aplicando mis conocimientos en distintos lenguajes y entornos para desarrollar herramientas funcionales y eficientes.  
 🧠 Siempre buscando aprender y mejorar como desarrollador.
+<div align="center">
+
+
+
+
+
+
+
+
 
 ---
 
@@ -57,7 +69,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=Yo+controlo+el+codigo+no+al+reves.)](https://git.io/typing-svg)
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DarksAces&limit=5&theme=dark&combine_all_yearly_contributions=true)
