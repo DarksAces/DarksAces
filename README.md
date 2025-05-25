@@ -71,7 +71,7 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=Yo+controlo+el+codigo+no+al+reves.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=Yo++el+codigo+no+al+reves.)](https://git.io/typing-svg)
 </div>
 
 ### 🔝 Top Contributed Repo
