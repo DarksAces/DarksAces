@@ -1,33 +1,28 @@
-
-
-
-# 💫 About Me:
-🎓 Soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con pasión por la inteligencia artificial y el desarrollo de software.  
-🚀 Me motiva crear soluciones innovadoras combinando programación con IA y automatización, aplicando mis conocimientos en distintos lenguajes y entornos para desarrollar herramientas funcionales y eficientes.  
-🧠 Siempre buscando aprender y mejorar como desarrollador.
 <div align="center">
 
 
-
-
-
-
-
-
+# 💫 About Me
+🎓 Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con pasión por la inteligencia artificial y el desarrollo de software.  
+🚀 Me motiva crear soluciones innovadoras combinando programación con IA, automatización y desarrollo de herramientas eficientes en distintos entornos.  
+🧠 Siempre buscando aprender, mejorar y experimentar con proyectos tecnológicos, incluyendo desarrollo de addons y mods para juegos.  
 
 ---
 
-🎓 I am a student of a Higher Vocational Training in Multiplatform Application Development (DAM), passionate about artificial intelligence and software development.  
-🚀 I am driven to create innovative solutions by combining programming with AI and automation, applying my knowledge across different languages and environments to develop functional and efficient tools.  
-🧠 Always looking to learn and grow as a developer.
+🎓 I am a student of Higher Vocational Training in Multiplatform Application Development (DAM), passionate about artificial intelligence and software development.  
+🚀 I am driven to create innovative solutions by combining programming with AI, automation, and development of efficient tools across different platforms.  
+🧠 Always looking to learn, grow, and explore new tech projects, including development of game addons and mods.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat&labelColor=E4405F)](https://instagram.com/danielgbrun) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0077B5)](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274)
+---
 
-## 💻 Tech Stack:
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat&labelColor=0077B5)](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274)  
+[![CurseForge](https://img.shields.io/badge/CurseForge-%23F15F2C.svg?style=flat&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/darkace)  
 
-### 🧑‍💻 Lenguajes de Programación:
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Lenguajes de Programación
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com) 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org) 
@@ -39,26 +34,27 @@
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
 [![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)  
 
-### ⚙️ Frameworks y Herramientas:
+### ⚙️ Frameworks y Herramientas
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com) 
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23007ACC.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com) 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) 
+[![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) 
 [![NetBeans](https://img.shields.io/badge/NetBeans-%23000000.svg?style=flat&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) 
 [![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org) 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![SQL Developer](https://img.shields.io/badge/SQL_Developer-%23F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)  
 
-### 🗃️ Bases de Datos y Otros:
+### 🗃️ Bases de Datos y Otros
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com) 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) 
 [![XAMPP](https://img.shields.io/badge/XAMPP-%23FF0000.svg?style=flat&logo=XAMPP&logoColor=white)](https://www.apachefriends.org/index.html) 
-[![Laragon](https://img.shields.io/badge/Laragon-%230081F0.svg?style=flat&logo=Laragon&logoColor=white)](https://laragon.org)
+[![Laragon](https://img.shields.io/badge/Laragon-%230081F0.svg?style=flat&logo=Laragon&logoColor=white)](https://laragon.org)  
 
-### 📝 Herramientas de Productividad:
+### 📝 Herramientas de Productividad
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so) 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com) 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://www.canva.com)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
