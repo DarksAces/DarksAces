@@ -24,27 +24,29 @@
 
 ### 🧑‍💻 Lenguajes de Programación
 
-<!-- Lenguajes Backend -->
+
+#### Backend
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com) 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org) 
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)](https://www.lua.org) 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net) 
 
-<!-- Lenguajes Frontend -->
+#### Frontend
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<!-- Bases de Datos -->
+#### Bases de Datos
 [![SQL](https://img.shields.io/badge/SQL-%23007396.svg?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
 [![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
 
-<!-- Formatos y Scripts -->
+#### Formatos y Scripts
 [![JSON](https://img.shields.io/badge/JSON-%23D3D3D3.svg?style=flat&logo=json&logoColor=black)](https://www.json.org/)
 [![XML](https://img.shields.io/badge/XML-%23447DCA.svg?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 [![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 
 
 
