@@ -83,7 +83,7 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&height=75&lines=El+codigo+no+me+domina,+yo+lo+domino)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&height=75&lines=El+codigo+no+me+domina,+yo+lo+domino&lines=Lok'tar+ogar!+Code+Mode)](https://git.io/typing-svg)
 
 
 </div>
