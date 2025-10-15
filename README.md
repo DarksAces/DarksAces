@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=DarksAces&label=Visitas&color=blue&style=flat)
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 🎓 Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con pasión por la inteligencia artificial y el desarrollo de software.  
 🚀 Me motiva crear soluciones innovadoras combinando programación con IA, automatización y desarrollo de herramientas eficientes en distintos entornos.  
