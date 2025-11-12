@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Lenguajes de Programación.
+### 🧑‍💻 Lenguajes de Programación
 
 
 #### Backend
