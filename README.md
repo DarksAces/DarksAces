@@ -10,7 +10,8 @@
 
 🎓 I am a student of Higher Vocational Training in Multiplatform Application Development (DAM), passionate about artificial intelligence and software development.  
 🚀 I am driven to create innovative solutions by combining programming with AI, automation, and development of efficient tools across different platforms.  
-🧠 Always looking to learn, grow, and explore new tech projects, including development of game addons and mods.  
+🧠 Always looking to learn, grow, and explore new tech projects, including development of game addons and mods.
+
 
 ---
 
