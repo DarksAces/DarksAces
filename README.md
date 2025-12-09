@@ -74,13 +74,15 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DarksAces&theme=dark&hide_border=false)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=DarksAces&theme=dark&hide_border=false)
+
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=radical&margin-w=10)
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
