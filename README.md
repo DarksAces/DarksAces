@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 🎓 Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con pasión por la inteligencia artificial y el desarrollo de software.  
 🚀 Me motiva crear soluciones innovadoras combinando programación con IA, automatización y desarrollo de herramientas eficientes en distintos entornos.  
@@ -11,7 +10,6 @@
 🎓 I am a student of Higher Vocational Training in Multiplatform Application Development (DAM), passionate about artificial intelligence and software development.  
 🚀 I am driven to create innovative solutions by combining programming with AI, automation, and development of efficient tools across different platforms.  
 🧠 Always looking to learn, grow, and explore new tech projects, including development of game addons and mods.
-
 
 ---
 
@@ -25,10 +23,11 @@
 
 ### 🧑‍💻 Lenguajes de Programación
 
-
-#### Backend
+#### Backend & Desktop
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com) 
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org) 
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)](https://www.lua.org) 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net) 
@@ -46,18 +45,18 @@
 #### Formatos y Scripts
 [![JSON](https://img.shields.io/badge/JSON-%23D3D3D3.svg?style=flat&logo=json&logoColor=black)](https://www.json.org/)
 [![XML](https://img.shields.io/badge/XML-%23447DCA.svg?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-
 
 
 ### ⚙️ Frameworks y Herramientas
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com) 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23007ACC.svg?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com) 
 [![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) 
 [![NetBeans](https://img.shields.io/badge/NetBeans-%23000000.svg?style=flat&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) 
-[![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org) 
+[![Android Studio](https://img.shields.io/badge/android%20studio-347fed?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![SQL Developer](https://img.shields.io/badge/SQL_Developer-%23F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)  
 
@@ -77,18 +76,10 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarksAces&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=DarksAces&theme=dark&hide_border=false)
 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarksAces&theme=radical&margin-w=10)
-
-
 ### ✍️ Random Dev Quote
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&height=75&lines=El+codigo+no+me+domina,+yo+lo+domino&lines=Lok'tar+ogar!+Code+Mode)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&height=75&lines=El+codigo+no+me+domina,+yo+lo+domino;Lok'tar+ogar!+Code+Mode)](https://git.io/typing-svg)
 
 </div>
 
@@ -98,5 +89,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DarksAces&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+</div>
