@@ -1,12 +1,13 @@
 <div align="center">
 
-# ⚡ Daniel García Brun 
+# ⚡ Daniel García Brun
 ### **Software Developer | DAM Student | AI & Automation Enthusiast**
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">
 
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274)
-[![](https://img.shields.io/badge/CurseForge-%23F15F2C.svg?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/darkace)
+[![Website](https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielgarciabrun.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/daniel-garcia-brun-98a54b274)
+[![CurseForge](https://img.shields.io/badge/CurseForge-%23F15F2C.svg?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/darkace)
 
 </div>
 
@@ -20,19 +21,21 @@
 * 🎮 **Hobby:** Creador de contenido técnico y mods en CurseForge.
 
 ---
-### 📊 My GitHub Stats
+
+### 🛠️ Tech Stack
 <div align="center">
 
-| **General Stats** | **Coding Streak** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"> | <img src="https://streak-stats.demolab.com/?user=DarksAces&theme=dark&hide_border=true" height="170"> |
-
-<br>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=450" width="450px">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
+---
+
 ### 📊 My GitHub Stats
 <div align="center">
 
@@ -40,13 +43,14 @@
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"> | <img src="https://streak-stats.demolab.com/?user=DarksAces&theme=dark&hide_border=true" height="170"> |
 
-
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=450" width="450px">
 
 </div>
 
 ---
+
 
 ### 💬 My Dev Vibe
 <div align="center">
@@ -55,5 +59,6 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=DarksAces&icon=0&color=3)](https://visitcount.itsvg.in)
+![Visits](https://komarev.com/ghpvc/?username=DarksAces&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </div>
