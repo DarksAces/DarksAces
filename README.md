@@ -29,7 +29,7 @@
 
 <br>
 
-**Language Distribution** <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=450" width="450px">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=450" width="450px">
 
 </div>
 
