@@ -40,7 +40,7 @@
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"> | <img src="https://streak-stats.demolab.com/?user=DarksAces&theme=dark&hide_border=true" height="170"> |
 
-**Language Distribution**
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=450" width="450px">
 
