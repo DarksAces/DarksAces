@@ -60,7 +60,7 @@ Me apasiona crear herramientas que optimicen procesos, ya sea en entornos empres
 
 <div align="center">
 
-## 📊 My GitHub Analytics
+## 📊 My GitHub Analytics.
 
 <br>
 
