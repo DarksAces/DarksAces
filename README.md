@@ -71,13 +71,13 @@ Me apasiona crear herramientas que optimicen procesos, ya sea en entornos empres
 <br><br>
 
 <a href="https://github.com/DarksAces">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarksAces&show_icons=true&theme=radical&title_color=00FFFF&icon_color=6F42C1&text_color=C9D1D9&bg_color=0D1117&hide_border=true&border_radius=15&include_all_commits=true" width="100%" height="280px" />
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=DarksAces&show_icons=true&theme=radical&title_color=00FFFF&icon_color=6F42C1&text_color=C9D1D9&bg_color=0D1117&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/DarksAces">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&langs_count=8&card_width=450" width="850px" />
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=DarksAces&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&langs_count=8" alt="Top Languages" />
 </a>
 
 <br><br>
